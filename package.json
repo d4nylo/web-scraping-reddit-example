@@ -1,0 +1,25 @@
+{
+  "name": "web-scraping-reddit-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4nylo/web-scraping-reddit-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d4nylo/web-scraping-reddit-example/issues"
+  },
+  "homepage": "https://github.com/d4nylo/web-scraping-reddit-example#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "puppeteer": "^9.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
